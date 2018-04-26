@@ -1,2 +1,2 @@
 # EIP
-External Internship Program
+External Internship Program on Deep Learning
